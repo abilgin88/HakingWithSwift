@@ -113,4 +113,3 @@ var mainingOflife = 42
 
 
 //meaningOfLife = "Forty two"
-
