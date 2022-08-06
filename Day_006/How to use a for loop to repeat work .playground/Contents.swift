@@ -53,3 +53,15 @@ for _ in 1...5 {
 }
  
 print(lyric)
+
+
+// Why does Swift have two range operators?
+
+let names = ["Piper", "Alex", "Suzanne", "Gloria"]
+
+print(names[0])
+
+print(names[1...3])
+
+
+print(names[1...])
